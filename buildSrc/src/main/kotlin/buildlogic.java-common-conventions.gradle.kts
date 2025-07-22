@@ -4,7 +4,7 @@ plugins {
     id("com.diffplug.spotless")
 }
 
-group = "io.github.dataseedr"
+group = "io.github.dataseedr.dataseedr-java"
 
 repositories {
     mavenCentral()
